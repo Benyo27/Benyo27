@@ -1,12 +1,17 @@
-Hi 👋 I am Benjamin Gonzalez! I am Software Engineer at Apply Digital and Bachelor of Science in Engineer from Pontificia Universidad Católica de Chile
+Hi 👋 I am Benjamin Gonzalez! I am an Industrial Civil Engineer with Computer Science Diploma. I have experience on Software Engineering.
 
 ### About Me 💻
-As a Software Engineer at Apply Digital I am mainly focused in front-end development, both in web and mobile applications. As a student at Pontificia Universidad Católica de Chile I am pursuing my Master of Engineering Science
+As a Software Engineer I am mainly experienced in front-end development, both in web and mobile applications. As a student at Pontificia Universidad Católica de Chile I am pursuing a Master of Engineering Science
 
 ### Technical Skills ⚒️
-* Languages: Python, Javascript, Typescript, C#
-* Frameworks & Libraries: React, Next.js, NestJS, React Native
-* Tools & Platforms: Github, Docker, AWS
+* Front-end: HTML, CSS, Tailwind, React, Next.js, NestJS, React Native, Ruby on Rails 
+* Back-end and DevOps: NestJS, AWS, Docker 
+* Databases: PostgreSQL, SQL 
+* Programming Languages: Python, JavaScript, TypeScript, C#, C, Ruby 
+* Version Control: GitHub 
+* Data Analysis: Pandas, Scikit-learn 
+* Methodologies: Agile, Clean Code 
+* Soft Skills: Leadership, Communication, Problem-solving, Teamwork 
 
 <!--
 **Benyo27/Benyo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
