@@ -4,10 +4,10 @@ Hi 👋 I am Benjamin Gonzalez! I am an Industrial Civil Engineer with Computer 
 As a Software Engineer I am mainly experienced in front-end development, both in web and mobile applications. As a student at Pontificia Universidad Católica de Chile I am pursuing a Master of Engineering Science
 
 ### Technical Skills ⚒️
-* Front-end: HTML, CSS, Tailwind, React, Next.js, NestJS, React Native, Ruby on Rails 
-* Back-end and DevOps: NestJS, AWS, Docker 
-* Databases: PostgreSQL, SQL 
-* Programming Languages: Python, JavaScript, TypeScript, C#, C, Ruby 
+* Front-end: HTML, CSS, Tailwind, React, Next.js, React Native, Ruby on Rails 
+* Back-end and DevOps: NestJS, AWS, Docker
+* Databases: PostgreSQL, SQL
+* Programming Languages: Python, JavaScript, TypeScript, C#, C, Ruby
 * Version Control: GitHub 
 * Data Analysis: Pandas, Scikit-learn 
 * Methodologies: Agile, Clean Code 
